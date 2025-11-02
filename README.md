@@ -1,7 +1,7 @@
 ## | Mobilidade Sustentável Solução Semafórica | Projeto AEP
 
 Este projeto é uma aplicação de backend em Java e Spring Boot desenvolvida para a AEP2Bimestre, com o objetivo de simular e gerenciar o tráfego de viadutos na cidade de Paiçandu.
-O sistema implementa uma lógica de gerenciamento dinâmico que ajusta os intervalos de tempo dos semáforos com base na contagem de veículos em tempo real, persistindo relatórios de desempenho em um banco de dados MySQL para futuras análises.
+O sistema implementa uma lógica de gerenciamento dinâmico que ajusta os intervalos de tempo dos semáforos com base na contagem de veículos em tempo real, persistindo relatórios de desempenho em um banco de dados MySQL.
 
 ## | Tecnologias Utilizadas
 * **Java 17**
